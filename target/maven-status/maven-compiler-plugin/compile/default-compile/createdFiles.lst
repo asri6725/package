@@ -1,2 +1,4 @@
 com/example/demo/DemoApplication.class
-com/example/demo/DemoApplication$1.class
+com/example/demo/ScoreSorter.class
+com/example/demo/DataStore.class
+com/example/demo/user.class
